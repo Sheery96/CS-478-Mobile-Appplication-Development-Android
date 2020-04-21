@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="welcome_to_the_app">Welcome To The Application</string>
+    <string name="button">Address</string>
+    <string name="button1">Map</string>
+    <string name="welcome_to_the_new_app">Enter the street address</string>
+    <string name="enter_here">Enter here</string>
+</resources>

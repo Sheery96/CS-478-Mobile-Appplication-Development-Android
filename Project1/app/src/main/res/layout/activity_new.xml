@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C3C14A">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="134dp"
+        android:gravity="right|center_vertical"
+        android:text="@string/welcome_to_the_new_app"
+        android:textColor="#F43636"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="92dp"
+        android:layout_marginTop="164dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/enter_here"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+</RelativeLayout>
